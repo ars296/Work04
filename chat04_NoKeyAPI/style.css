@@ -1,0 +1,30 @@
+body{
+	text-align:center ;
+
+  }
+  
+  .name {
+	  text-align:center ;
+  
+  }
+
+
+/*   
+.full-img{
+    background-image:url(smartphone_screen_frame.png); /* 画像のURLを指定  
+    background-size:contain;                 /* 画像のサイズを指定    */
+    /* width:100%;                              /* 横幅のサイズを指定    */
+    /* height:200px;                            /* 縦幅のサイズを指定    
+}
+*/
+
+
+  .btn {
+  	width: 50px;
+	  height: 30px;
+	  text-align: center;
+	  text-decoration: none;
+ 	  color: rgb(10, 9, 9);
+    background-color:rgb(234, 240, 242);
+ 
+ }
